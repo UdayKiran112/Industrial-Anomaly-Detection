@@ -55,4 +55,4 @@ pip install -r requirements.txt
 ```plaintext
 The autoencoder model is designed to capture normal patterns in the industrial dataset. It minimizes reconstruction error for normal data and identifies anomalies by detecting larger reconstruction errors.
 ```
-![Autoencoder Model Architecture](autoencoder_model_plot.png)
+![Autoencoder Model Architecture](Images/autoencoder_model_plot.png)
