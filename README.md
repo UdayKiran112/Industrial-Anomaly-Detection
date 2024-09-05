@@ -8,9 +8,6 @@ This project focuses on detecting anomalies in industrial equipment using deep l
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Model Architecture](#model-architecture)
-6. [Evaluation](#evaluation)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Introduction
 
